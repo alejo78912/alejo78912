@@ -33,3 +33,34 @@ Actualmente, me encuentro realizando mis prácticas empresariales en AtlanticSof
 Si deseas colaborar en algún proyecto o simplemente quieres ponerte en contacto conmigo, ¡no dudes en hacerlo! Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/alejandrovalencia) y [GitHub](https://github.com/alejandrovalencia).
 
 ¡Gracias por visitar mi repositorio! 😊
+
+Alejandro Valencia's Repository - Software Engineering
+Welcome! I'm Alejandro Valencia, a seventh-semester student majoring in Software Engineering. This is my personal repository where I share some of my projects and programming exercises.
+
+About Me
+I'm passionate about technology and software development. Throughout my academic and professional journey, I've gained experience in various programming languages and technologies.
+
+Technologies and Languages
+Java
+PHP
+Python
+JavaScript
+HTML
+CSS
+Frameworks and Tools
+Spring
+Angular
+Featured Projects
+Inventory Management Project: Developed a web application using Java and Spring to efficiently manage inventories.
+
+Personal Website: Created a personal website using HTML, CSS, and JavaScript to share my experience and projects.
+
+Todo Application: Implemented a todo application using Angular for collaborative task management.
+
+Internship at AtlanticSoft
+I'm currently doing my internship at AtlanticSoft, working as a developer. I'm excited to apply my knowledge in a professional environment and learn from the team's experience.
+
+Contact
+If you'd like to collaborate on a project or just want to get in touch, feel free to do so! You can find me on LinkedIn and GitHub.
+
+Thank you for visiting my repository! 😊
