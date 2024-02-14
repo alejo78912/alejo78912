@@ -30,7 +30,7 @@ Aquí encontrarás algunos de los proyectos en los que he trabajado y ejercicios
 Actualmente, me encuentro realizando mis prácticas empresariales en AtlanticSoft, donde desempeño el rol de desarrollador. Estoy emocionado de aplicar mis conocimientos en un entorno profesional y aprender de la experiencia del equipo.
 
 ## Contacto
-Si deseas colaborar en algún proyecto o simplemente quieres ponerte en contacto conmigo, ¡no dudes en hacerlo! Puedes encontrarme en [LinkedIn]([https://www.linkedin.com/in/alejandrovalencia](https://www.linkedin.com/in/alejandro-valencia-13b047269/)) y [GitHub](https://github.com/alejo78912).
+Si deseas colaborar en algún proyecto o simplemente quieres ponerte en contacto conmigo, ¡no dudes en hacerlo! Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/alejandro-valencia-13b047269/) y [GitHub](https://github.com/alejo78912).
 
 ¡Gracias por visitar mi repositorio! 😊
 
