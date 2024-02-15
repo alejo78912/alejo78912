@@ -34,23 +34,25 @@ Si deseas colaborar en algún proyecto o simplemente quieres ponerte en contacto
 
 ¡Gracias por visitar mi repositorio! 😊
 
-Alejandro Valencia's Repository - Software Engineering
+# Alejandro Valencia's Repository - Software Engineering
 Welcome! I'm Alejandro Valencia, a seventh-semester student majoring in Software Engineering. This is my personal repository where I share some of my projects and programming exercises.
 
-About Me
+## About Me
 I'm passionate about technology and software development. Throughout my academic and professional journey, I've gained experience in various programming languages and technologies.
 
-Technologies and Languages
+## Technologies and Languages
 Java
 PHP
 Python
 JavaScript
 HTML
 CSS
-Frameworks and Tools
+
+## Frameworks and Tools
 Spring
 Angular
-Featured Projects
+
+##Featured Projects
 Inventory Management Project: Developed a web application using Java and Spring to efficiently manage inventories.
 
 Personal Website: Created a personal website using HTML, CSS, and JavaScript to share my experience and projects.
