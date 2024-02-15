@@ -118,7 +118,7 @@
 <h1 align="center">Alejandro Valencia's Repository - Software Engineering</h1>
 
 <div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+  <img height="200" src="[https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif](https://www.icegif.com/wp-content/uploads/icegif-6438.gif)" />
 </div>
 
 <h2 align="left">Hello! I'm Alejandro Valencia, a seventh-semester student majoring in Software Engineering. This is my personal repository where I share some of my projects and programming exercises.</h2>
