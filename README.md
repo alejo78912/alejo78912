@@ -52,17 +52,17 @@ CSS
 Spring
 Angular
 
-##Featured Projects
-Inventory Management Project: Developed a web application using Java and Spring to efficiently manage inventories.
+## Featured Projects
 
-Personal Website: Created a personal website using HTML, CSS, and JavaScript to share my experience and projects.
+1. **Inventory Management Project:** Developed a web application using Java and Spring to efficiently manage inventories.
 
-Todo Application: Implemented a todo application using Angular for collaborative task management.
+2. **Personal Website:** Created a personal website using HTML, CSS, and JavaScript to share my experience and projects.
 
-Internship at AtlanticSoft
+3. **Todo Application:** Implemented a todo application using Angular for collaborative task management.
+
+## Internship at AtlanticSoft
 I'm currently doing my internship at AtlanticSoft, working as a developer. I'm excited to apply my knowledge in a professional environment and learn from the team's experience.
 
-Contact
-If you'd like to collaborate on a project or just want to get in touch, feel free to do so! You can find me on LinkedIn and GitHub.
-
+## Contact
+If you'd like to collaborate on a project or just want to get in touch, feel free to do so! You can find me on [LinkedIn](https://www.linkedin.com/in/alejandro-valencia-13b047269/) y [GitHub](https://github.com/alejo78912).
 Thank you for visiting my repository! 😊
