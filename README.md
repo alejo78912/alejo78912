@@ -190,4 +190,4 @@
   </a>
 </div>
 
-<img src="https://raw.githubusercontent.com/alejo78912/alejo78912/github/workflow/snake.yml" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/alejo78912/alejo78912/github/workflows/snake.yml" alt="Snake animation" />
