@@ -111,7 +111,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/alejo78912/alejo78912/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/alejo78912/alejo78912/github/workflow/snake.svg" alt="Snake animation" />
 
 ###
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -190,4 +190,4 @@
   </a>
 </div>
 
-<img src="https://raw.githubusercontent.com/alejo78912/alejo78912/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/alejo78912/alejo78912/github/workflow/snake.svg" alt="Snake animation" />
