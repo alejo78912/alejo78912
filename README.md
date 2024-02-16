@@ -110,9 +110,9 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/alejo78912/alejo78912/github/workflow/snake.yml" alt="Snake animation" />
-
+ <a target="_blank">
+<img src="https://raw.githubusercontent.com/CruzNadin/cruznadin/main/github-contribution-grid-snake.gif" alt="Snake animation" />
+ </a>
 ###
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <h1 align="center">Alejandro Valencia's Repository - Software Engineering</h1>
@@ -189,8 +189,5 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
-
-[<img src="https://raw.githubusercontent.com/CruzNadin/cruznadin/main/github-contribution-grid-snake.gif" alt="Snake animation" />
-](https://github.com/alejo78912/apps-moviles.git<img src="[https://raw.githubusercontent.com/Mariana1010P/Mariana1010P/output/snake.svg](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-<img src="https://raw.githubusercontent.com/CruzNadin/cruznadin/main/github-contribution-grid-snake.gif" alt="Snake animation" />)https://github.com/alejo78912/apps-moviles.git<img src="[https://raw.githubusercontent.com/Mariana1010P/Mariana1010P/output/snake.svg](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<br>
 <img src="https://raw.githubusercontent.com/CruzNadin/cruznadin/main/github-contribution-grid-snake.gif" alt="Snake animation" />
