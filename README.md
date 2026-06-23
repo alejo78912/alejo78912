@@ -43,7 +43,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/dotnet.svg" alt=".NET" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/dotnet.svg"  height="40" alt=".NET" />
 </div>
 
 ###
