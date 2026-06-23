@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">-TypeScript<br>- Java<br>- PHP<br>- Python<br>- JavaScript<br>- HTML<br>- CSS<br>-Kotlin</p>
+<p align="left">-TypeScript<br>- Java<br>- PHP<br>- Python<br>- JavaScript<br>- HTML<br>- CSS<br>-Kotlin<br>- .NET</p>
 
 ###
 
@@ -52,7 +52,7 @@
 
 ###
 
-<p align="left">- Spring<br>- Angular</p>
+<p align="left">- Spring<br>- Angular<br>- React</p>
 
 ###
 
@@ -60,6 +60,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/react.svg" alt="React" />
 </div>
 
 ###
@@ -128,7 +130,7 @@
 
 <h2 align="left">Technologies and Languages</h2>
 
-<p align="left">- TypeScript<br>- Java<br>- PHP<br>- Python<br>- JavaScript<br>- HTML<br>- CSS<br>- Kotlin</p>
+<p align="left">- TypeScript<br>- Java<br>- PHP<br>- Python<br>- JavaScript<br>- HTML<br>- CSS<br>- Kotlin<br>- .NET</p>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -148,16 +150,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/dotnet.svg"  height="40" alt=".NET" />
 </div>
 
 <h2 align="left">Frameworks and Tools</h2>
 
-<p align="left">- Spring<br>- Angular</p>
+<p align="left">- Spring<br>- Angular<br>- React</p>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/react.svg" alt="React" />
 </div>
 
 <h2 align="left">Featured Projects</h2>
