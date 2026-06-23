@@ -61,7 +61,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/react.svg" alt="React" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/react.svg" height="40" alt="React" />
 </div>
 
 ###
@@ -163,7 +163,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/react.svg" alt="React" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/react.svg" height="40" alt="React" />
 </div>
 
 <h2 align="left">Featured Projects</h2>
